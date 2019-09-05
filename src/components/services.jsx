@@ -19,8 +19,7 @@ export default class Services extends Component {
               <i className="icon-bulb" />
             </span>
             <div className="desc">
-              <h3>Innovative Ideas</h3>
-              <p>Separated they live in Bookmarksgrove right at the coast of the Semantics</p>
+              <h3>Software Development</h3>
             </div>
           </div>
         </div>
@@ -30,8 +29,7 @@ export default class Services extends Component {
               <i className="icon-data" />
             </span>
             <div className="desc">
-              <h3>Software</h3>
-              <p>Separated they live in Bookmarksgrove right at the coast of the Semantics</p>
+              <h3>Data Modeling</h3>
             </div>
           </div>
         </div>
@@ -41,8 +39,7 @@ export default class Services extends Component {
               <i className="icon-phone3" />
             </span>
             <div className="desc">
-              <h3>Application</h3>
-              <p>Separated they live in Bookmarksgrove right at the coast of the Semantics</p>
+              <h3>Artificial Intelligence</h3>
             </div>
           </div>
         </div>
@@ -52,8 +49,7 @@ export default class Services extends Component {
               <i className="icon-layers2" />
             </span>
             <div className="desc">
-              <h3>Graphic Design</h3>
-              <p>Separated they live in Bookmarksgrove right at the coast of the Semantics</p>
+              <h3>Software Testing</h3>
             </div>
           </div>
         </div>
@@ -63,19 +59,17 @@ export default class Services extends Component {
               <i className="icon-data" />
             </span>
             <div className="desc">
-              <h3>Software</h3>
-              <p>Separated they live in Bookmarksgrove right at the coast of the Semantics</p>
+              <h3>Software Design</h3>
             </div>
           </div>
         </div>
         <div className="col-md-4 text-center animate-box">
           <div className="services color-6">
             <span className="icon">
-              <i className="icon-phone3" />
+              <i className="icon-bulb" />
             </span>
             <div className="desc">
-              <h3>Application</h3>
-              <p>Separated they live in Bookmarksgrove right at the coast of the Semantics</p>
+              <h3>Cloud Computing</h3>
             </div>
           </div>
         </div>
